@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "pic": "https://img2.mukewang.com/5c0a36790001b17606000338-240-135.jpg",
+    "price": 9.9,
+    "product": "冷饮",
+    "shop": "创意菜",
+    "isCommented": true
+  },
+  {
+    "id": 2,
+    "pic": "https://img2.mukewang.com/5c0a36790001b17606000338-240-135.jpg",
+    "price": 9.9,
+    "product": "冷饮",
+    "shop": "创意菜",
+    "isCommented": false
+  },
+  {
+    "id": 3,
+    "pic": "https://img2.mukewang.com/5c0a36790001b17606000338-240-135.jpg",
+    "price": 9.9,
+    "product": "冷饮",
+    "shop": "创意菜",
+    "isCommented": true
+  },
+  {
+    "id": 4,
+    "pic": "https://img2.mukewang.com/5c0a36790001b17606000338-240-135.jpg",
+    "price": 9.9,
+    "product": "冷饮",
+    "shop": "创意菜",
+    "isCommented": false
+  }
+]
